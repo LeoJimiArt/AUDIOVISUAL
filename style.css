@@ -1,1 +1,14 @@
-test 
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+}
+
+#visualizer {
+    width: 80%;
+    height: 300px;
+    border: 1px solid #fff;
+}
